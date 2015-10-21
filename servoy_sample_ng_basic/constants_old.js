@@ -1,7 +1,8 @@
 /**
  * @type {Number}
  *
- * @properties={typeid:35,uuid:"B713C037-94B0-4592-A54B-CC3A839129EF",variableType:4}
+ *
+ * @properties={typeid:35,uuid:"B9A9981A-33EF-49D6-A225-C8A4A3C14866",variableType:8}
  */
 var CONST_SOLUTION_ID = 2;
 
